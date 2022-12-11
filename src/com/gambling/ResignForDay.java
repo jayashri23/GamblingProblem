@@ -24,7 +24,7 @@ import java.util.Random;
          totalStake =totalStake + gambling.stakePerDay;
          System.out.println(gambling.percentage);
          highestStake =(int )(totalStake+ (totalStake * gambling.percentage));
-         lowestStake =(int )(totalStake+ (totalStake * gambling.percentage));
+         lowestStake =(int )(totalStake- (totalStake * gambling.percentage));
 
         totalStake =checkingCondition(gambling,random,totalStake,highestStake,lowestStake);
         System.out.println("Gambling resign for the day");
