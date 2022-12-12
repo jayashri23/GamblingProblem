@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e86d58d4-85d8-479a-98a4-f0cdc34928c0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gambling/ResignForDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gambling/ResignForDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gambling/TotalWinOrLoose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gambling/TotalWinOrLoose.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,20 @@
       <recent name="com.gambling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ResignForDay">
+  <component name="RunManager" selected="Application.luckiestAndUnluckiestDay">
+    <configuration name="MonthWinOrLose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gambling.MonthWinOrLose" />
+      <module name="Gambling7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gambling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ResignForDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gambling.ResignForDay" />
       <module name="Gambling7" />
@@ -84,8 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="luckiestAndUnluckiestDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gambling.luckiestAndUnluckiestDay" />
+      <module name="Gambling7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gambling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.luckiestAndUnluckiestDay" />
+        <item itemvalue="Application.MonthWinOrLose" />
         <item itemvalue="Application.ResignForDay" />
         <item itemvalue="Application.WinORLoose" />
         <item itemvalue="Application.StartPosition" />
