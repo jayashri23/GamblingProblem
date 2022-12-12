@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86d58d4-85d8-479a-98a4-f0cdc34928c0" name="Changes" comment="" />
+    <list default="true" id="e86d58d4-85d8-479a-98a4-f0cdc34928c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
       <recent name="com.gambling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WinThenContinue">
+  <component name="RunManager" selected="Application.MonthWonLose">
     <configuration name="MonthWinOrLose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gambling.MonthWinOrLose" />
       <module name="Gambling7" />
@@ -54,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResignForDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gambling.ResignForDay" />
+    <configuration name="MonthWonLose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gambling.MonthWonLose" />
       <module name="Gambling7" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WinORLoose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gambling.WinORLoose" />
+    <configuration name="ResignForDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gambling.ResignForDay" />
       <module name="Gambling7" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthWonLose" />
         <item itemvalue="Application.WinThenContinue" />
         <item itemvalue="Application.luckiestAndUnluckiestDay" />
         <item itemvalue="Application.MonthWinOrLose" />
         <item itemvalue="Application.ResignForDay" />
-        <item itemvalue="Application.WinORLoose" />
       </list>
     </recent_temporary>
   </component>
